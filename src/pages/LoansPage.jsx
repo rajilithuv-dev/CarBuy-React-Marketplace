@@ -14,6 +14,27 @@ function Stat({ icon, value, label }) {
     </div>
   );
 }
+function LoanCard({ loan, car, emi }) {
+  return (
+    <div className="loan-card">
+      <h2>{car?.brand || car?.name || "Auto Loan"}</h2>
+
+      <p>
+        Loan Amount: ₹
+        {Number(loan.amount || loan.loanAmount || 0).toLocaleString("en-IN")}
+      </p>
+
+      <p>Interest Rate: {loan.interestRate || 8.5}% p.a.</p>
+
+      <p>
+        Monthly EMI: ₹
+        {Number(emi || 0).toLocaleString("en-IN")}
+      </p>
+
+      <p>Status: {loan.status || "Active"}</p>
+    </div>
+  );
+}
 
 export default function LoansPage() {
   const { loans, cars } = useCars();

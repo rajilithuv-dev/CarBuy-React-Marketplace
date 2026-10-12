@@ -8,7 +8,7 @@ export const cars = [
     fuel: "Diesel",
     transmission: "Automatic",
     image:
-      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=900&q=80",
+      "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner/10904/1755846017683/front-left-side-47.jpg",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ export const cars = [
     fuel: "Petrol",
     transmission: "Automatic",
     image:
-      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=900&q=80",
+      "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/Creta/Highlights/knightking/cretakingdeadside.jpg",
   },
   {
     id: 3,
@@ -30,7 +30,7 @@ export const cars = [
     fuel: "Petrol",
     transmission: "Automatic",
     image:
-      "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=900&q=80",
+      "https://imgd.aeplcdn.com/1056x594/n/9vhedib_1893759.avif?q=80",
   },
   {
     id: 4,
@@ -41,7 +41,7 @@ export const cars = [
     fuel: "Diesel",
     transmission: "Automatic",
     image:
-      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?auto=format&fit=crop&w=900&q=80",
+      "https://ackodrive-prod.ackoassets.com/image/tata/harrier/pure-grey/images_cdn/small/Transparent.webp",
   },
   {
     id: 5,
@@ -52,7 +52,7 @@ export const cars = [
     fuel: "Diesel",
     transmission: "Automatic",
     image:
-      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=900&q=80",
+      "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10794/1762509966753/front-left-side-47.jpg",
   },
   {
     id: 6,
@@ -100,7 +100,7 @@ export const purchaseData = [
     fuel: "Diesel",
     transmission: "Automatic",
     image:
-      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=900&q=80",
+      "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner/10904/1755846017683/front-left-side-47.jpg",
     purchaseType: "Loan Purchase",
     purchaseDate: "15 Aug 2026",
     status: "Active Loan",
@@ -120,7 +120,7 @@ export const purchaseData = [
     fuel: "Petrol",
     transmission: "Manual",
     image:
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80",
+      "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Swift/9226/1755777061785/front-left-side-47.jpg",
     purchaseType: "Full Payment",
     purchaseDate: "10 Jun 2026",
     status: "Completed",
@@ -141,7 +141,7 @@ export const loanData = [
     fuel: "Diesel",
     transmission: "Automatic",
     image:
-      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=900&q=80",
+      "https://stimg.cardekho.com/images/carexteriorimages/930x620/Toyota/Fortuner/10904/1755846017683/front-left-side-47.jpg",
     status: "Active Loan",
     downPayment: 800000,
     loanAmount: 3400000,
